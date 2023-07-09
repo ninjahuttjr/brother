@@ -15,6 +15,7 @@ The Discord Bro is a helpful bro that provides assistance and performs various t
 1. Clone the repository:
 
 git clone https://github.com/ninjahuttjr/brother.git
+
 2. Install the required dependencies:
 
 discord.py: A Python library for interacting with the Discord API. It provides an easy-to-use interface for creating Discord bots and handling events.
